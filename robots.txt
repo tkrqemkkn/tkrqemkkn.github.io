@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tkrqemkkn.github.io/sitemap.xml
